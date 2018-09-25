@@ -1,5 +1,5 @@
-Iejiji
-
-void main () {
-	return 1;
+//Iejiji
+int main () {
+  	printf ("\nhola");
+	return 1; 
 }
